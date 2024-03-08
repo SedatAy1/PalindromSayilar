@@ -1,0 +1,2 @@
+# PalindromSayilar
+PalindromSayilar
